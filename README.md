@@ -1,2 +1,2 @@
-## Lear Enough HTML to be dangerous
+## Learn Enough HTML to be dangerous
 
